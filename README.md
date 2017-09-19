@@ -4,7 +4,7 @@ Hidden folder that is hidden and unhidden using a password.
 ## Set up
 Firstly clone this rep.
 
-Now you can copy the key.sh file and the hidden folder for the type of OS you have, and place them keeping the hidden folder in the same directory as key.sh.
+Now you can copy the key.sh file and the hidden folder for the type of OS you have, and place them where you want keeping the hidden folder in the same directory as key.sh.
 
 Now change the value in the password file to the password you want.
 
